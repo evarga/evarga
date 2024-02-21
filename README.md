@@ -9,7 +9,7 @@ Some quick references:
 
 ⚡ My first true success with open-source is connected to the [docker-images](http://github.com/evarga/docker-images) repository, that I've pinned here for historical reasons. It hosts the implementation of the very first idea to use Docker containers (`evarga/jenkins-slave` at Docker Hub) for creating Jenkins slave nodes in a distributed CI/CD pipeline. Since then, much polished offerings have appeared on a market, but being first with an idea truly thrilled me at that time. Seeing your work being downloaded in huge numbers as well as being mentioned in company blogs, like [this](https://www.cloudbees.com/blog/templating-jenkins-build-environments-docker-containers), is something worthwhile to pursue via open-source contributions.
 
-Besides having my own repositories, I also like to contribute to other open-source projects. One prominent example is the [Secure Code Game](https://gh.io/securecodegame) project, that I also use in my university course. My experience in this regard has been mentioned in [this](https://github.blog/2024-02-15-build-code-security-skills-with-the-github-secure-code-game/) GitHub blog.
+Besides having my own repositories, I also like to contribute to other open-source projects. One prominent example is the [Secure Code Game](https://gh.io/securecodegame) project, that I also use in my university course. My experience in this regard was mentioned in [this](https://github.blog/2024-02-15-build-code-security-skills-with-the-github-secure-code-game/) GitHub blog.
 
 I have authored/co-authored 4 books with renowned publishers as listed below:
 1. Ervin Varga, [Creating Maintainable APIs - A Practical, Case-Study Approach](https://link.springer.com/book/10.1007/978-1-4842-2196-9), Apress, 2016
