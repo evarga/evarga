@@ -1,21 +1,21 @@
 on:
   schedule:
-    - cron: '0 */12 * * *' # every 12 hours
+    - cron: '0 0 * * 1' # Once per week
   push:
     branches:
       - master
+      - main
 jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
       with:
         fetch-depth: 0
     - name: Generate README.md
-      uses: teoxoy/profile-readme-stats@v1.1
+      uses: teoxoy/profile-readme-stats@v2
       with:
         token: ${{ secrets.USER_TOKEN }}
-        includeForks: true
     - name: Update README.md
       run: |
         if [[ "$(git status --porcelain)" != "" ]]; then
@@ -25,4 +25,3 @@ jobs:
         git commit -m "Update README"
         git push
         fi
-
