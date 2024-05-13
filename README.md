@@ -14,12 +14,12 @@ I regard challenges as opportunities to learn and produce something significant 
 
 Top 5 most used languages across my projects:
 
-![Python](https://img.shields.io/badge/%e2%a0%80-Python%ef%b8%b132.7%25-555555?style=flat-square&labelColor=%233572A5)
-![C++](https://img.shields.io/badge/%e2%a0%80-C%2B%2B%ef%b8%b120.6%25-555555?style=flat-square&labelColor=%23f34b7d)
-![Java](https://img.shields.io/badge/%e2%a0%80-Java%ef%b8%b117.8%25-555555?style=flat-square&labelColor=%23b07219)
-![JavaScript](https://img.shields.io/badge/%e2%a0%80-JavaScript%ef%b8%b115.8%25-555555?style=flat-square&labelColor=%23f1e05a)
+![Python](https://img.shields.io/badge/%e2%a0%80-Python%ef%b8%b137.3%25-555555?style=flat-square&labelColor=%233572A5)
+![C++](https://img.shields.io/badge/%e2%a0%80-C%2B%2B%ef%b8%b119.1%25-555555?style=flat-square&labelColor=%23f34b7d)
+![Java](https://img.shields.io/badge/%e2%a0%80-Java%ef%b8%b116.5%25-555555?style=flat-square&labelColor=%23b07219)
+![JavaScript](https://img.shields.io/badge/%e2%a0%80-JavaScript%ef%b8%b114.6%25-555555?style=flat-square&labelColor=%23f1e05a)
 ![Dockerfile](https://img.shields.io/badge/%e2%a0%80-Dockerfile%ef%b8%b13.1%25-555555?style=flat-square&labelColor=%23384d54)
-![Other](https://img.shields.io/badge/%e2%a0%80-Other%ef%b8%b19.7%25-555555?style=flat-square&labelColor=%23ededed)
+![Other](https://img.shields.io/badge/%e2%a0%80-Other%ef%b8%b19%25-555555?style=flat-square&labelColor=%23ededed)
 
 <details>
 <summary>
