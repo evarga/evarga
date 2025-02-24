@@ -3,7 +3,7 @@
 A quick journey through code:
 - My adventure with programming began in 1984 with first lines of code written in the BASIC programming language on the [TRS-80 Pocket Computer Model PC-2](https://www.trs-80.com/wordpress/models/pocket/#pc2).
 - A big jump into computing happened to me a year later, when I got my second computer the [Sinclair ZX Spectrum 48K](https://en.wikipedia.org/wiki/ZX_Spectrum).
-- Fast forward to the present, I have 30 years of professional experience in software engineering, working both in industry and academia. Joined GitHub **12** years ago.
+- Fast forward to the present, I have 30 years of professional experience in software engineering, working both in industry and academia. Joined GitHub **13** years ago.
 - One thing has remained constant over time, my unquenchable thirst for knowledge and learning new things. 
 
 <img src="images/emoji.gif" width="30px"/> My first true success with open-source is connected to the [docker-images](http://github.com/evarga/docker-images) repository, that I've pinned here for historical reasons. It hosts the implementation of the very first idea to use Docker containers (`evarga/jenkins-slave` at Docker Hub) for creating Jenkins slave nodes in a distributed CI/CD pipeline. Since then, much polished offerings have appeared on a market, but being first with an idea truly thrilled me at that time. Seeing your work being downloaded in huge numbers as well as being mentioned in company blogs, like [this](https://www.cloudbees.com/blog/templating-jenkins-build-environments-docker-containers), is something worthwhile to pursue via open-source contributions.
