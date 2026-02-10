@@ -1,7 +1,7 @@
 <h2>Hi there <img src="images/Hi.gif" width="30px"/></h2>
 
 A quick journey through code:
-- My adventure with programming began in 1984 with first lines of code written in the BASIC programming language on the [TRS-80 Pocket Computer Model PC-2](https://www.trs-80.com/wordpress/models/pocket/#pc2).
+- My adventure with programming began in 1984 with first lines of code written in the BASIC programming language on the [TRS-80 Pocket Computer Model PC-2](https://en.wikipedia.org/wiki/Tandy_Pocket_Computer).
 - A big jump into computing happened to me a year later, when I got my second computer the [Sinclair ZX Spectrum 48K](https://en.wikipedia.org/wiki/ZX_Spectrum).
 - Fast forward to the present, I have 30 years of professional experience in software engineering, working both in industry and academia. Joined GitHub **13** years ago.
 - One thing has remained constant over time, my unquenchable thirst for knowledge and learning new things. 
