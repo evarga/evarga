@@ -14,12 +14,12 @@ I regard challenges as opportunities to learn and produce something significant 
 
 Top 5 most used languages across my projects:
 
-![JavaScript](https://img.shields.io/badge/%e2%a0%80-JavaScript%ef%b8%b131.6%25-555555?style=flat-square&labelColor=%23f1e05a)
-![Python](https://img.shields.io/badge/%e2%a0%80-Python%ef%b8%b122.7%25-555555?style=flat-square&labelColor=%233572A5)
-![CSS](https://img.shields.io/badge/%e2%a0%80-CSS%ef%b8%b117%25-555555?style=flat-square&labelColor=%23663399)
-![C++](https://img.shields.io/badge/%e2%a0%80-C%2B%2B%ef%b8%b111.6%25-555555?style=flat-square&labelColor=%23f34b7d)
-![Java](https://img.shields.io/badge/%e2%a0%80-Java%ef%b8%b110.1%25-555555?style=flat-square&labelColor=%23b07219)
-![Other](https://img.shields.io/badge/%e2%a0%80-Other%ef%b8%b16.6%25-555555?style=flat-square&labelColor=%23ededed)
+![JavaScript](https://img.shields.io/badge/%e2%a0%80-JavaScript%ef%b8%b129.6%25-555555?style=flat-square&labelColor=%23f1e05a)
+![Python](https://img.shields.io/badge/%e2%a0%80-Python%ef%b8%b127.5%25-555555?style=flat-square&labelColor=%233572A5)
+![CSS](https://img.shields.io/badge/%e2%a0%80-CSS%ef%b8%b116%25-555555?style=flat-square&labelColor=%23663399)
+![C++](https://img.shields.io/badge/%e2%a0%80-C%2B%2B%ef%b8%b110.9%25-555555?style=flat-square&labelColor=%23f34b7d)
+![Java](https://img.shields.io/badge/%e2%a0%80-Java%ef%b8%b19.4%25-555555?style=flat-square&labelColor=%23b07219)
+![Other](https://img.shields.io/badge/%e2%a0%80-Other%ef%b8%b16.2%25-555555?style=flat-square&labelColor=%23ededed)
 
 <details>
 <summary>
