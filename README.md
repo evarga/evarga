@@ -1,3 +1,4 @@
+[![.github/workflows/readme.yml](https://github.com/evarga/evarga/actions/workflows/readme.yml/badge.svg)](https://github.com/evarga/evarga/actions/workflows/readme.yml)
 <h2>Hi there <img src="images/Hi.gif" width="30px"/></h2>
 
 A quick journey through code:
@@ -6,11 +7,11 @@ A quick journey through code:
 - Fast forward to the present, I have 30 years of professional experience in software engineering, working both in industry and academia. Joined GitHub **15** years ago.
 - One thing has remained constant over time, my unquenchable thirst for knowledge and learning new things. 
 
-<img src="images/emoji.gif" width="30px"/> My first true success with open-source is connected to the [docker-images](http://github.com/evarga/docker-images) repository, that I've pinned here for historical reasons. It hosts the implementation of the very first idea to use Docker containers (`evarga/jenkins-slave` at Docker Hub) for creating Jenkins slave nodes in a distributed CI/CD pipeline. Since then, much polished offerings have appeared on a market, but being first with an idea truly thrilled me at that time. Seeing your work being downloaded in huge numbers as well as being mentioned in company blogs, like [this](https://www.cloudbees.com/blog/templating-jenkins-build-environments-docker-containers), is something worthwhile to pursue via open-source contributions.
+<img src="images/emoji.gif" width="30px"/> My first true success with open-source is connected to the [docker-images](http://github.com/evarga/docker-images) repository, that I've pinned here for historical reasons. It hosts the implementation of the very first idea to use Docker containers (`evarga/jenkins-slave` at Docker Hub) for creating Jenkins slave nodes in a distributed CI/CD pipeline. Since then, much polished offerings have appeared on a market, but being first with an idea truly thrilled me at that time. Seeing your work being downloaded in huge numbers as well as being mentioned in company blogs, like [this (archived)](https://web.archive.org/web/20230930101938/https://www.cloudbees.com/blog/templating-jenkins-build-environments-docker-containers), is something worthwhile to pursue via open-source contributions.
 
 Alongside my own repositories, I like to contribute to other open-source projects, too. One prominent example is the [Secure Code Game](https://gh.io/securecodegame) project, that I also use in my university course. My experience in this regard was mentioned in [this](https://github.blog/2024-02-15-build-code-security-skills-with-the-github-secure-code-game/) GitHub blog. I am also proud of being a contributor to the [CloudEvents specification](https://github.com/cloudevents/spec).
 
-I regard challenges as opportunities to learn and produce something significant and unique. Besides tackling those that regularly arise in my professional career as a consultant and researcher, I enjoy contributing solutions to various puzzles. I cannot express in words the level of happiness when my submission gets chosen among many as the best one. One notable example is [this](https://brilliantorg.notion.site/March-Puzzle-Solution-1c116e5bef3141239017aa615f0c93da) puzzle. 
+I regard challenges as opportunities to learn and produce something significant and unique. Besides tackling those that regularly arise in my professional career as a consultant and researcher, I enjoy contributing solutions to various puzzles and participate in competitions, like the [5-Day AI Agents: Intensive Vibe Coding Course](https://www.kaggle.com/certification/badges/evarga/108) hackaton.  
 
 Top 5 most used languages across my projects:
 
