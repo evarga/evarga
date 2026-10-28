@@ -1,3 +1,4 @@
+[![.github/workflows/readme.yml](https://github.com/evarga/evarga/actions/workflows/readme.yml/badge.svg)](https://github.com/evarga/evarga/actions/workflows/readme.yml)
 <h2>Hi there <img src="images/Hi.gif" width="30px"/></h2>
 
 A quick journey through code:
